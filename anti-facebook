@@ -1,0 +1,17 @@
+# uBlacklist Anti-Facebook
+# Converted from Fanboy's Anti-Facebook List
+
+*://*.facebook.com/*
+*://*.api-read.facebook.com/*
+*://*.api.facebook.com/*
+*://*.badge.facebook.com/*
+*://*.connect.facebook.com/*
+*://*.connect.facebook.net/*
+*://*.fbcdn-profile-a.akamaihd.net/*
+*://*.google.com/js/client:plusone.js/*
+*://*.google.com/js/plusone.js/*
+*://*.graph.facebook.com/*
+*://*.profile.ak.fbcdn.net/*
+*://*.scontent-a.*.fbcdn.net/*
+*://*.spot.im/*
+*://*.static.ak.fbcdn.net/*
