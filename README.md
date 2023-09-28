@@ -1,6 +1,6 @@
 # UBlacklist Anti-Facebook Filter List
 
-This repository contains a filter list specifically designed for the [UBlacklist](https://github.com/iorate/uBlacklist) browser extension, aimed at blocking Facebook-related domains from appearing in search results. The list has been converted from the renowned "Fanboy's Anti-Facebook List" which is tailored for Adblock Plus. It's ideal for users who wish to prevent Facebook domains from cluttering their search results without affecting on-page content.
+This repository contains a filter list specifically designed for the [ublacklist](https://github.com/iorate/uBlacklist) browser extension, aimed at blocking Facebook-related domains from appearing in search results. The list has been converted from the renowned "Fanboy's Anti-Facebook List" which is tailored for Adblock Plus. It's ideal for users who wish to prevent Facebook domains from cluttering their search results without affecting on-page content.
 
 ## Features
 - **Blocks main Facebook domains and its related subdomains.**
